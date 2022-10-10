@@ -1,0 +1,60 @@
+html * {
+    color-profile: sRGB;
+    rendering-intent: auto;
+}
+
+body {
+    background-color: #fdf6e3;
+    color: #657b83;
+}
+
+h1 {
+    color: #586e75;
+}
+h1:before {
+    color: #93a1a1;
+    font-weight: normal;
+    font-size: 70%;
+}
+
+h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
+
+h2 { color: #cb4b16; }
+h3 { color: #859900; }
+h4 { color: #268bd2; }
+h5 { color: #b58900; }
+h6 { color: #2aa198; }
+
+span.TODO { color: #2aa198; }
+span.DONE { color: #859900; }
+
+a {
+    color: #b58900;
+}
+
+a:hover {
+    color: #657b83;
+    background-color: #eee8d5;
+    text-decoration: none;
+}
+
+code {
+    background-color: #eee8d5;
+}
+
+blockquote, pre {
+    background-color: #eee8d5;
+}
+
+blockquote:before,
+blockquote:after,
+pre.src:before,
+pre.src:after {
+    color: #93a1a1;
+}
+
+table {
+    color: #859900;
+}

@@ -1,0 +1,176 @@
+/* Org mode export always sets a single <h1> from the title (or filename).
+   All of the top-level headings are rendered as <h2>, hence why <hx> here
+   has x-1 preceding stars */
+h1:before {
+    content: "#+TITLE: ";
+}
+
+h2:before {
+    content: "* ";
+}
+
+h3:before {
+    content: "** ";
+}
+
+h4:before {
+    content: "*** ";
+}
+
+h5:before {
+    content: "**** ";
+}
+
+h6:before {
+    content: "***** ";
+}
+
+h1:before,
+h2:before,
+h3:before,
+h4:before,
+h5:before,
+h6:before {
+    display: inline;
+}
+
+span.TODO,
+span.DONE {
+    font-weight: bold;
+    font-size: 80%;
+}
+
+/* TOCs look too "busy" to me with all the links underlined */
+#table-of-contents a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 120%;
+}
+
+/* How emphasised elements are drawn depends heavily on your org-mode theme
+   and font choice in emacs. See the "caveats" section in README.org */
+em, i {
+    font-style: normal;
+    text-decoration: underline;
+}
+em:before,
+em:after,
+i:before,
+i:after {
+    content: "/";
+    display: inline;
+}
+
+strong, b {
+    font-weight: bold;
+}
+strong:before,
+strong:after,
+b:before,
+b:after {
+    content: "*";
+    display: inline;
+}
+
+/* Preformatted text & code blocks
+   This is deliberately minimal as there are many options here. E.g. see:
+   http://mediatemple.net/blog/tips/considerations-for-styling-the-pre-tag/ */
+code {
+    padding: 0.1em;
+}
+pre {
+    font-size: 80%;
+    line-height: 140%;
+}
+
+blockquote, pre {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0.5em;
+}
+
+blockquote:before,
+blockquote:after,
+pre.src:before,
+pre.src:after {
+    display: block;
+}
+
+blockquote:before {
+    content: "#+BEGIN_QUOTE";
+}
+blockquote:after {
+    content: "#+END_QUOTE";
+}
+
+blockquote p:first-child {
+    margin-top: 0.1em;
+}
+blockquote p:last-child {
+    margin-bottom: 0.1em;
+}
+
+pre.src:before {
+    content: "#+BEGIN_SRC";
+}
+pre.src:after {
+    content: "#+END_SRC";
+}
+
+
+ul {
+    list-style-type: none;
+    padding-left: 1em;
+}
+li {
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    line-height: 120%;
+}
+ul li:before {
+    content: "- ";
+    display: inline;
+}
+
+/* Nested unordered lists alternate between + and - markers */
+ul li > ul li:before {
+    content: "+ ";
+}
+ul li > ul li > ul li:before {
+    content: "- ";
+}
+
+/* Table styling */
+table,
+table thead,
+table thead tr,
+table thead tr th,
+table colgroup,
+table > * {
+    border-style: none;
+}
+table {
+    margin: 2em 0;
+}
+table thead {
+    border: 2px solid;
+}
+table thead tr th {
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+table tbody tr td {
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+table tbody {
+    border-bottom: 2px solid;
+}
+th {
+    text-align: left;
+}
+th, td {
+    padding: 0.5em 1em;
+}

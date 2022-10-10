@@ -1,0 +1,139 @@
+#+TITLE: Market
+#+AUTHOR: mrprofessor
+#+EXPORT_FILE_NAME: index.html
+
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://emacs.rudra.dev/style.css" />
+
+#+HTML_HEAD: <meta property="og:title" content="prof's sale" />
+#+HTML_HEAD: <meta property="twitter:title" content="prof's sale" />
+#+HTML_HEAD: <meta property="twitter:card" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+#+HTML_HEAD: <meta property="og:card" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+#+HTML_HEAD: <meta property="og:image" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+#+HTML_HEAD: <meta property="twitter:image" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+
+#+OPTIONS: toc:3 author:nil date:nil html-postamble:nil html-style:nil num:nil title:nil
+
+
+** Table of contents                                      :TOC_3_gh:noexport:
+:PROPERTIES:
+:CUSTOM_ID: table-of-contents
+:END:
+  - [[#timestamp][Timestamp]]
+  - [[#keycaps][Keycaps]]
+    - [[#kat-space-cadet][KAT space cadet]]
+    - [[#mt3-camillo][MT3 Camillo]]
+    - [[#mt3-dasher][MT3 Dasher]]
+    - [[#mt3-3277][MT3 3277]]
+    - [[#mt3-devtty][MT3 dev/tty]]
+    - [[#gmk-dmg-clones][GMK DMG **Clones**]]
+  - [[#keyboard-kits][Keyboard kits]]
+    - [[#bbox60-th01-case-dz60-rev1-pcb-stabilizers][Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.]]
+
+** Timestamp
+:PROPERTIES:
+:CUSTOM_ID: timestamp
+:END:
+
+[[file:images/round01/timestamp.jpg]]
+
+** Keycaps
+:PROPERTIES:
+:CUSTOM_ID: keycaps
+:END:
+
+
+*** KAT space cadet
+:PROPERTIES:
+:CUSTOM_ID: kat-space-cadet
+:END:
+
+Mounted once for pictures, no use, no shine.
+Shipped with OG packaging.
+
+Space cadet Alphas(The white ones aren't included).
+
+[[file:images/round01/kat_space_cadet_1.jpg]]
+
+Mods
+
+[[file:images/round01/kat_space_cadet_2.jpg]]
+
+Boxes
+
+[[file:images/round01/kat_space_cadet_3.jpg]]
+
+*** MT3 Camillo
+:PROPERTIES:
+:CUSTOM_ID: mt3-camillo
+:END:
+
+Mounted for pictures, never used, no shine.
+Shipped in Drop trays.
+
+[[file:images/round01/mt3_camillo.jpg]]
+
+[[file:images/round01/mt3_camillo-2.jpg]]
+
+[[file:images/round01/mt3_camillo-3.jpg]]
+
+
+*** MT3 Dasher
+:PROPERTIES:
+:CUSTOM_ID: mt3-dasher
+:END:
+
+Mounted for pictures, never used, no shine.
+Shipped in Drop trays.
+
+[[file:images/round01/mt3_dasher.jpg]]
+
+
+*** MT3 3277
+:PROPERTIES:
+:CUSTOM_ID: mt3-3277
+:END:
+
+Mounted for pictures, no use, no shine.
+Shipped with OG packaging.
+
+[[file:images/round01/mt3_3277.jpg]]
+
+[[file:images/round01/mt3_3277-2.jpg]]
+
+[[file:images/round01/mt3_3277-3.jpg]]
+
+*** MT3 dev/tty
+:PROPERTIES:
+:CUSTOM_ID: mt3-dev-tty
+:END:
+
+Bought from r/mm, good condition.
+Shipped in plastic bag.
+
+[[file:images/round01/mt3_dev_tty.jpg]]
+
+*** GMK DMG **Clones**
+:PROPERTIES:
+:CUSTOM_ID: gmk-dmg-clones
+:END:
+
+Bought from IMKC marketplace, in a good condition.
+Shipped in a plastic bag.
+
+[[file:images/round01/gmk_dmg_clone.jpg]]
+
+** Keyboard kits
+:PROPERTIES:
+:CUSTOM_ID: keyboard-kits
+:END:
+
+
+*** Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.
+:PROPERTIES:
+:CUSTOM_ID: bbox60-th01-case-dz60-rev1-pcb-stabilizers
+:END:
+
+Case is in excellent condition, PCB has seen some use, PC plate.
+Stabs are a weird mix of different ones(Durock, Cherry, unknown)
+
+[[file:images/round01/bbox60.jpg]]
