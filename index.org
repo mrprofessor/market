@@ -25,7 +25,7 @@
     - [[#mt3-dasher][MT3 Dasher]]
     - [[#mt3-3277][MT3 3277]]
     - [[#mt3-devtty][MT3 dev/tty]]
-    - [[#gmk-dmg-clones][GMK DMG **Clones**]]
+    - [[#gmk-dmg-clones][+GMK DMG Clones+]]
   - [[#keyboard-kits][Keyboard kits]]
     - [[#bbox60-th01-case-dz60-rev1-pcb-stabilizers][Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.]]
 
@@ -52,14 +52,16 @@ Shipped with OG packaging.
 
 Space cadet Alphas(The white ones aren't included).
 
+Mounted on U-80A
+[[file:images/round01/u80a_kat_space_cadet.jpg]]
+
+
 [[file:images/round01/kat_space_cadet_1.jpg]]
 
 Mods
-
 [[file:images/round01/kat_space_cadet_2.jpg]]
 
 Boxes
-
 [[file:images/round01/kat_space_cadet_3.jpg]]
 
 *** MT3 Camillo
@@ -112,13 +114,13 @@ Shipped in plastic bag.
 
 [[file:images/round01/mt3_dev_tty.jpg]]
 
-*** GMK DMG **Clones**
+*** +GMK DMG Clones+
 :PROPERTIES:
 :CUSTOM_ID: gmk-dmg-clones
 :END:
 
-Bought from IMKC marketplace, in a good condition.
-Shipped in a plastic bag.
++Bought from IMKC marketplace, in a good condition.+
++Shipped in a plastic bag.+
 
 [[file:images/round01/gmk_dmg_clone.jpg]]
 
