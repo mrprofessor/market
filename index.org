@@ -20,14 +20,15 @@
 :END:
   - [[#timestamp][Timestamp]]
   - [[#keycaps][Keycaps]]
-    - [[#kat-space-cadet][KAT space cadet]]
-    - [[#mt3-camillo][MT3 Camillo]]
-    - [[#mt3-dasher][MT3 Dasher]]
     - [[#mt3-3277][MT3 3277]]
     - [[#mt3-devtty][MT3 dev/tty]]
-    - [[#gmk-dmg-clones][+GMK DMG Clones+]]
   - [[#keyboard-kits][Keyboard kits]]
     - [[#bbox60-th01-case-dz60-rev1-pcb-stabilizers][Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.]]
+  - [[#sold][Sold]]
+    - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
+    - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
+    - [[#mt3-dasher-sold][+MT3 Dasher+ (sold)]]
+    - [[#gmk-dmg-clones-sold][+GMK DMG Clones+ (sold)]]
 
 ** Timestamp
 :PROPERTIES:
@@ -42,7 +43,55 @@
 :END:
 
 
-*** KAT space cadet
+*** MT3 3277
+:PROPERTIES:
+:CUSTOM_ID: mt3-3277
+:END:
+
+Mounted for pictures, no use, no shine.
+Shipped with OG packaging.
+
+[[file:images/round01/mt3_3277.jpg]]
+
+[[file:images/round01/mt3_3277-4.jpg]]
+
+[[file:images/round01/mt3_3277-2.jpg]]
+
+[[file:images/round01/mt3_3277-3.jpg]]
+
+*** MT3 dev/tty
+:PROPERTIES:
+:CUSTOM_ID: mt3-dev-tty
+:END:
+
+Bought from r/mm, good condition.
+Shipped in plastic bag.
+
+[[file:images/round01/mt3_dev_tty.jpg]]
+
+** Keyboard kits
+:PROPERTIES:
+:CUSTOM_ID: keyboard-kits
+:END:
+
+
+*** Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.
+:PROPERTIES:
+:CUSTOM_ID: bbox60-th01-case-dz60-rev1-pcb-stabilizers
+:END:
+
+Case is in excellent condition, PCB has seen some use, PC plate.
+Stabs are a weird mix of different ones(Durock, Cherry, unknown)
+
+[[file:images/round01/bbox60.jpg]]
+
+
+** Sold
+:PROPERTIES:
+:CUSTOM_ID: sold
+:END:
+
+*** +KAT space cadet+ (sold)
 :PROPERTIES:
 :CUSTOM_ID: kat-space-cadet
 :END:
@@ -64,7 +113,8 @@ Mods
 Boxes
 [[file:images/round01/kat_space_cadet_3.jpg]]
 
-*** MT3 Camillo
+
+*** +MT3 Camillo+ (sold)
 :PROPERTIES:
 :CUSTOM_ID: mt3-camillo
 :END:
@@ -79,7 +129,7 @@ Shipped in Drop trays.
 [[file:images/round01/mt3_camillo-3.jpg]]
 
 
-*** MT3 Dasher
+*** +MT3 Dasher+ (sold)
 :PROPERTIES:
 :CUSTOM_ID: mt3-dasher
 :END:
@@ -90,31 +140,7 @@ Shipped in Drop trays.
 [[file:images/round01/mt3_dasher.jpg]]
 
 
-*** MT3 3277
-:PROPERTIES:
-:CUSTOM_ID: mt3-3277
-:END:
-
-Mounted for pictures, no use, no shine.
-Shipped with OG packaging.
-
-[[file:images/round01/mt3_3277.jpg]]
-
-[[file:images/round01/mt3_3277-2.jpg]]
-
-[[file:images/round01/mt3_3277-3.jpg]]
-
-*** MT3 dev/tty
-:PROPERTIES:
-:CUSTOM_ID: mt3-dev-tty
-:END:
-
-Bought from r/mm, good condition.
-Shipped in plastic bag.
-
-[[file:images/round01/mt3_dev_tty.jpg]]
-
-*** +GMK DMG Clones+
+*** +GMK DMG Clones+ (sold)
 :PROPERTIES:
 :CUSTOM_ID: gmk-dmg-clones
 :END:
@@ -123,19 +149,3 @@ Shipped in plastic bag.
 +Shipped in a plastic bag.+
 
 [[file:images/round01/gmk_dmg_clone.jpg]]
-
-** Keyboard kits
-:PROPERTIES:
-:CUSTOM_ID: keyboard-kits
-:END:
-
-
-*** Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.
-:PROPERTIES:
-:CUSTOM_ID: bbox60-th01-case-dz60-rev1-pcb-stabilizers
-:END:
-
-Case is in excellent condition, PCB has seen some use, PC plate.
-Stabs are a weird mix of different ones(Durock, Cherry, unknown)
-
-[[file:images/round01/bbox60.jpg]]
