@@ -21,7 +21,6 @@
   - [[#timestamp][Timestamp]]
   - [[#keycaps][Keycaps]]
     - [[#mt3-devtty][MT3 dev/tty]]
-    - [[#mt3-3277][MT3 3277]]
   - [[#keyboard-kits][Keyboard kits]]
     - [[#bbox60-th01-case-dz60-rev1-pcb-stabilizers][Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.]]
   - [[#sold][Sold]]
@@ -29,6 +28,7 @@
     - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
     - [[#mt3-dasher-sold][+MT3 Dasher+ (sold)]]
     - [[#gmk-dmg-clones-sold][+GMK DMG Clones+ (sold)]]
+    - [[#mt3-3277-sold][+MT3 3277+ (sold)]]
 
 ** Timestamp
 :PROPERTIES:
@@ -55,22 +55,6 @@ Shipped in plastic bag.
 
 [[file:images/round01/mt3_dev_tty.jpg]]
 
-*** MT3 3277
-:PROPERTIES:
-:CUSTOM_ID: mt3-3277
-:END:
-
-Mounted for pictures, no use, no shine.
-Shipped with OG packaging.
-
-[[file:images/round01/mt3_3277.jpg]]
-
-[[file:images/round01/mt3_3277-4.jpg]]
-
-[[file:images/round01/mt3_3277-2.jpg]]
-
-[[file:images/round01/mt3_3277-3.jpg]]
-
 ** Keyboard kits
 :PROPERTIES:
 :CUSTOM_ID: keyboard-kits
@@ -84,6 +68,9 @@ Shipped with OG packaging.
 
 Case is in excellent condition, PCB has seen some use, PC plate.
 Stabs are a weird mix of different ones(Durock, Cherry, unknown)
+
+Bbox60 with MT3 Susuwatari
+[[file:images/round01/bbox_mt3_susuwatari.jpg]]
 
 [[file:images/round01/bbox60.jpg]]
 
@@ -151,3 +138,19 @@ Shipped in Drop trays.
 +Shipped in a plastic bag.+
 
 [[file:images/round01/gmk_dmg_clone.jpg]]
+
+*** +MT3 3277+ (sold)
+:PROPERTIES:
+:CUSTOM_ID: mt3-3277
+:END:
+
+Mounted for pictures, no use, no shine.
+Shipped with OG packaging.
+
+[[file:images/round01/mt3_3277.jpg]]
+
+[[file:images/round01/mt3_3277-4.jpg]]
+
+[[file:images/round01/mt3_3277-2.jpg]]
+
+[[file:images/round01/mt3_3277-3.jpg]]
