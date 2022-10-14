@@ -19,16 +19,16 @@
 :CUSTOM_ID: table-of-contents
 :END:
   - [[#timestamp][Timestamp]]
-  - [[#keycaps][Keycaps]]
-    - [[#mt3-devtty][MT3 dev/tty]]
   - [[#keyboard-kits][Keyboard kits]]
     - [[#bbox60-th01-case-dz60-rev1-pcb-stabilizers][Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.]]
+  - [[#keycaps][Keycaps]]
   - [[#sold][Sold]]
     - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
     - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
     - [[#mt3-dasher-sold][+MT3 Dasher+ (sold)]]
     - [[#gmk-dmg-clones-sold][+GMK DMG Clones+ (sold)]]
     - [[#mt3-3277-sold][+MT3 3277+ (sold)]]
+    - [[#mt3-devtty-sold][+MT3 dev/tty+ (sold)]]
 
 ** Timestamp
 :PROPERTIES:
@@ -37,23 +37,6 @@
 
 [[file:images/round01/timestamp.jpg]]
 
-** Keycaps
-:PROPERTIES:
-:CUSTOM_ID: keycaps
-:END:
-
-
-*** MT3 dev/tty
-:PROPERTIES:
-:CUSTOM_ID: mt3-dev-tty
-:END:
-
-Bought from r/mm, good condition.
-Shipped in plastic bag.
-
-[[file:images/round01/mt3_dev_tty_norbatouch.jpg]]
-
-[[file:images/round01/mt3_dev_tty.jpg]]
 
 ** Keyboard kits
 :PROPERTIES:
@@ -74,6 +57,12 @@ Bbox60 with MT3 Susuwatari
 
 [[file:images/round01/bbox60.jpg]]
 
+** Keycaps
+:PROPERTIES:
+:CUSTOM_ID: keycaps
+:END:
+
+Nothing at the moment! :)
 
 ** Sold
 :PROPERTIES:
@@ -154,3 +143,16 @@ Shipped with OG packaging.
 [[file:images/round01/mt3_3277-2.jpg]]
 
 [[file:images/round01/mt3_3277-3.jpg]]
+
+*** +MT3 dev/tty+ (sold)
+:PROPERTIES:
+:CUSTOM_ID: mt3-dev-tty
+:END:
+
+Bought from r/mm, good condition.
+Shipped in plastic bag.
+
+[[file:images/round01/mt3_dev_tty_norbatouch.jpg]]
+
+[[file:images/round01/mt3_dev_tty.jpg]]
+
