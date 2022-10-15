@@ -20,7 +20,8 @@
 :END:
   - [[#timestamp][Timestamp]]
   - [[#keyboard-kits][Keyboard kits]]
-    - [[#bbox60-th01-case-dz60-rev1-pcb-stabilizers][Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.]]
+    - [[#tofu-60][Tofu 60%]]
+    - [[#bbox60][Bbox60]]
   - [[#keycaps][Keycaps]]
   - [[#sold][Sold]]
     - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
@@ -43,11 +44,33 @@
 :CUSTOM_ID: keyboard-kits
 :END:
 
+*** Tofu 60%
+:PROPERTIES:
+:CUSTOM_ID: tofu-60
+:END:
 
-*** Bbox60 TH01 case, DZ60 rev1 pcb, stabilizers.
+- E-yellow case
+- DZ60 v1 PCB
+- Aluminium plate
+- Durock v1 stabilizers
+
+Overall good condition, defects are pictured.
+
+[[file:images/round01/tofu_01.jpg]]
+
+[[file:images/round01/tofu_02.jpg]]
+  
+
+*** Bbox60
 :PROPERTIES:
 :CUSTOM_ID: bbox60-th01-case-dz60-rev1-pcb-stabilizers
 :END:
+
+- Bbox60 black case
+- Case stand
+- DZ60 v1 PCB
+- PC plate
+- Stabilizers
 
 Case is in excellent condition, PCB has seen some use, PC plate.
 Stabs are a weird mix of different ones(Durock, Cherry, unknown)
@@ -56,6 +79,7 @@ Bbox60 with MT3 Susuwatari
 [[file:images/round01/bbox_mt3_susuwatari.jpg]]
 
 [[file:images/round01/bbox60.jpg]]
+
 
 ** Keycaps
 :PROPERTIES:
