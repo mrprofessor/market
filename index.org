@@ -5,11 +5,12 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://emacs.rudra.dev/style.css" />
 
 #+HTML_HEAD: <meta property="og:title" content="prof's sale" />
-#+HTML_HEAD: <meta property="twitter:title" content="prof's sale" />
-#+HTML_HEAD: <meta property="twitter:card" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+#+HTML_HEAD: <meta name="twitter:title" content="prof's sale" />
+#+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
 #+HTML_HEAD: <meta property="og:card" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
 #+HTML_HEAD: <meta property="og:image" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
-#+HTML_HEAD: <meta property="twitter:image" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+#+HTML_HEAD: <meta name="twitter:image" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+#+HTML_HEAD: <meta name="twitter:image:src" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
 
 #+OPTIONS: toc:3 author:nil date:nil html-postamble:nil html-style:nil num:nil title:nil
 
@@ -20,7 +21,7 @@
 :END:
   - [[#timestamp][Timestamp]]
   - [[#keyboard-kits][Keyboard kits]]
-    - [[#tofu-60][Tofu 60%]]
+    - [[#tofu-60][Tofu 60]]
     - [[#bbox60][Bbox60]]
   - [[#keycaps][Keycaps]]
   - [[#sold][Sold]]
@@ -44,7 +45,7 @@
 :CUSTOM_ID: keyboard-kits
 :END:
 
-*** Tofu 60%
+*** Tofu 60
 :PROPERTIES:
 :CUSTOM_ID: tofu-60
 :END:
@@ -58,7 +59,19 @@ Overall good condition, defects are pictured.
 
 [[file:images/round01/tofu_01.jpg]]
 
-[[file:images/round01/tofu_02.jpg]]
+[[file:images/round01/tofu_03.jpg]]
+
+[[file:images/round01/tofu_04.jpg]]
+
+[[file:images/round01/tofu_05.jpg]]
+
+[[file:images/round01/tofu_06_back.jpg]]
+
+- Defects
+
+  It's not visible when the keycaps are mounted.
+
+[[file:images/round01/tofu_07_defects.jpg]]
   
 
 *** Bbox60
