@@ -20,10 +20,12 @@
 :CUSTOM_ID: table-of-contents
 :END:
   - [[#timestamp][Timestamp]]
+  - [[#keycaps][Keycaps]]
+    - [[#gmk-serika-hiragana-base][GMK Serika (Hiragana base)]]
+    - [[#gmk-bento][GMK Bento]]
   - [[#keyboard-kits][Keyboard kits]]
     - [[#tofu-60][Tofu 60]]
     - [[#bbox60][Bbox60]]
-  - [[#keycaps][Keycaps]]
   - [[#sold][Sold]]
     - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
     - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
@@ -38,6 +40,33 @@
 :END:
 
 [[file:images/round01/timestamp.jpg]]
+
+
+** Keycaps
+:PROPERTIES:
+:CUSTOM_ID: keycaps
+:END:
+
+*** GMK Serika (Hiragana base)
+:PROPERTIES:
+:CUSTOM_ID: gmk-serika-hiragana-base
+:END:
+
+Mounted for pictures, barely typed on. Shipped with OG packaging.
+
+Mounted on CherryB freyr
+
+[[file:images/round02/freyr_gmk_serika_03.jpg]]
+
+[[file:images/round02/freyr_gmk_serika_02.jpg]]
+
+
+*** GMK Bento
+:PROPERTIES:
+:CUSTOM_ID: gmk-bento
+:END:
+
+Never mounted. 
 
 
 ** Keyboard kits
@@ -76,7 +105,7 @@ Overall good condition, defects are pictured.
 
 *** Bbox60
 :PROPERTIES:
-:CUSTOM_ID: bbox60-th01-case-dz60-rev1-pcb-stabilizers
+:CUSTOM_ID: bbox60
 :END:
 
 - Bbox60 black case
@@ -93,13 +122,6 @@ Bbox60 with MT3 Susuwatari
 
 [[file:images/round01/bbox60.jpg]]
 
-
-** Keycaps
-:PROPERTIES:
-:CUSTOM_ID: keycaps
-:END:
-
-Nothing at the moment! :)
 
 ** Sold
 :PROPERTIES:
