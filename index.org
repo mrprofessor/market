@@ -23,7 +23,9 @@
   - [[#keycaps][Keycaps]]
     - [[#gmk-serika-hiragana-base][GMK Serika (Hiragana base)]]
     - [[#gmk-bento][GMK Bento]]
+    - [[#modo-light-clone][MODO light clone]]
   - [[#keyboard-kits][Keyboard kits]]
+    - [[#coolermaster-novatouch--norbauer-norbatouchcase][Coolermaster Novatouch + Norbauer Norbatouch(case)]]
     - [[#tofu-60][Tofu 60]]
     - [[#bbox60][Bbox60]]
   - [[#sold][Sold]]
@@ -39,7 +41,7 @@
 :CUSTOM_ID: timestamp
 :END:
 
-[[file:images/round01/timestamp.jpg]]
+[[file:images/round02/timestamp.jpg]]
 
 
 ** Keycaps
@@ -66,13 +68,35 @@ Mounted on CherryB freyr
 :CUSTOM_ID: gmk-bento
 :END:
 
-Never mounted. 
+Open package, never mounted.
+
+[[file:images/round02/gmk_bento_2.jpg]]
+
+*** MODO light clone
+:PROPERTIES:
+:CUSTOM_ID: modo-light-clone
+:END:
+
+PBT caps, Mounted and used, no shine.
+
+[[file:images/round02/modo_clone.jpg]]
 
 
 ** Keyboard kits
 :PROPERTIES:
 :CUSTOM_ID: keyboard-kits
 :END:
+
+*** Coolermaster Novatouch + Norbauer Norbatouch(case)
+:PROPERTIES:
+:CUSTOM_ID: coolermaster-novatouch-norbauer-norbatouch-case
+:END:
+
+Stabs are lubed with krytox 205G0.
+
+[[file:images/round02/norbatouch_01.jpg]]
+
+[[file:images/round02/norbatouch_02.jpg]]
 
 *** Tofu 60
 :PROPERTIES:
