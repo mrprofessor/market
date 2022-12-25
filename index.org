@@ -7,10 +7,10 @@
 #+HTML_HEAD: <meta property="og:title" content="prof's sale" />
 #+HTML_HEAD: <meta name="twitter:title" content="prof's sale" />
 #+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
-#+HTML_HEAD: <meta property="og:card" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
-#+HTML_HEAD: <meta property="og:image" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
-#+HTML_HEAD: <meta name="twitter:image" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
-#+HTML_HEAD: <meta name="twitter:image:src" content="https://market.mrprofessor.dev/images/round01/timestamp.jpg" />
+#+HTML_HEAD: <meta property="og:card" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
+#+HTML_HEAD: <meta property="og:image" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
+#+HTML_HEAD: <meta name="twitter:image" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
+#+HTML_HEAD: <meta name="twitter:image:src" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
 
 #+OPTIONS: toc:3 author:nil date:nil html-postamble:nil html-style:nil num:nil title:nil
 
