@@ -20,11 +20,11 @@
 :CUSTOM_ID: table-of-contents
 :END:
   - [[#timestamp][Timestamp]]
-  - [[#keycaps][Keycaps]]
-    - [[#gmk-bento][GMK Bento]]
   - [[#keyboard-kits][Keyboard kits]]
     - [[#coolermaster-novatouch--norbauer-norbatouchcase][Coolermaster Novatouch + Norbauer Norbatouch(case)]]
     - [[#tofu-60][Tofu 60]]
+  - [[#keycaps][Keycaps]]
+  - [[#pcbplates][PCB/Plates]]
   - [[#sold][Sold]]
     - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
     - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
@@ -35,6 +35,7 @@
     - [[#gmk-serika-hiragana-base-sold][+GMK Serika (Hiragana base)+ (sold)]]
     - [[#modo-light-clone-sold][+MODO light clone+ (sold)]]
     - [[#bbox60-sold][+Bbox60+ (Sold)]]
+    - [[#gmk-bento-sold][+GMK Bento+ (Sold)]]
 
 ** Timestamp
 :PROPERTIES:
@@ -42,23 +43,6 @@
 :END:
 
 [[file:images/round02/timestamp.jpg]]
-
-
-** Keycaps
-:PROPERTIES:
-:CUSTOM_ID: keycaps
-:END:
-
-
-*** GMK Bento
-:PROPERTIES:
-:CUSTOM_ID: gmk-bento
-:END:
-
-Open package, never mounted.
-
-[[file:images/round02/gmk_bento_2.jpg]]
-
 
 ** Keyboard kits
 :PROPERTIES:
@@ -103,6 +87,16 @@ Overall good condition, defects are pictured.
   It's not visible when the keycaps are mounted.
 
 [[file:images/round01/tofu_07_defects.jpg]]
+
+** Keycaps
+:PROPERTIES:
+:CUSTOM_ID: keycaps
+:END:
+** PCB/Plates
+:PROPERTIES:
+:CUSTOM_ID: pcb-plates
+:END:
+
 
 ** Sold
 :PROPERTIES:
@@ -238,3 +232,13 @@ Bbox60 with MT3 Susuwatari
 [[file:images/round01/bbox_mt3_susuwatari.jpg]]
 
 [[file:images/round01/bbox60.jpg]]
+
+
+*** +GMK Bento+ (Sold)
+:PROPERTIES:
+:CUSTOM_ID: gmk-bento
+:END:
+
+Open package, never mounted.
+
+[[file:images/round02/gmk_bento_2.jpg]]
