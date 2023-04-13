@@ -21,10 +21,11 @@
 :END:
   - [[#timestamp][Timestamp]]
   - [[#keyboard-kits][Keyboard kits]]
-    - [[#coolermaster-novatouch--norbauer-norbatouchcase][Coolermaster Novatouch + Norbauer Norbatouch(case)]]
-    - [[#tofu-60][Tofu 60]]
-  - [[#keycaps][Keycaps]]
+    - [[#bakeneko65-lavender][Bakeneko65 (lavender)]]
+    - [[#novatouch--norbatouchcase][Novatouch + Norbatouch(case)]]
   - [[#pcbplates][PCB/Plates]]
+    - [[#dz60-v1-pcb--plate--stabilizers][DZ60 V1 PCB + Plate + Stabilizers]]
+  - [[#keycaps][Keycaps]]
   - [[#sold][Sold]]
     - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
     - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
@@ -49,54 +50,58 @@
 :CUSTOM_ID: keyboard-kits
 :END:
 
-*** Coolermaster Novatouch + Norbauer Norbatouch(case)
+*** Bakeneko65 (lavender)
+:PROPERTIES:
+:CUSTOM_ID: bakeneko65-lavender
+:END:
+
+Cannonkeys Bakeneko 65 with Zinc weight. PCB, plate, JST cable and foam
+included.
+
+[[file:images/round03/bakeneko_65_01.jpg]]
+
+
+[[file:images/round03/bakeneko_65_02.jpg]]
+
+
+*** Novatouch + Norbatouch(case)
 :PROPERTIES:
 :CUSTOM_ID: coolermaster-novatouch-norbauer-norbatouch-case
 :END:
 
+1. Coolermaster Novatouch
+2. Norabatouch (By Ryan Norbauer)
+
 Stabs are lubed with krytox 205G0.
+
+[[file:images/round03/coolermaster_novatouch_tkl_02.jpg]]
+
+[[file:images/round03/coolermaster_novatouch_tkl_01.jpg]]
+
+[[file:images/round03/coolermaster_novatouch_tkl_03.jpg]]
 
 [[file:images/round02/norbatouch_01.jpg]]
 
-[[file:images/round02/norbatouch_02.jpg]]
 
-*** Tofu 60
-:PROPERTIES:
-:CUSTOM_ID: tofu-60
-:END:
-
-- E-yellow case
-- DZ60 v1 PCB
-- Aluminium plate
-- Durock v1 stabilizers
-
-Overall good condition, defects are pictured.
-
-[[file:images/round01/tofu_01.jpg]]
-
-[[file:images/round01/tofu_03.jpg]]
-
-[[file:images/round01/tofu_04.jpg]]
-
-[[file:images/round01/tofu_05.jpg]]
-
-[[file:images/round01/tofu_06_back.jpg]]
-
-- Defects
-
-  It's not visible when the keycaps are mounted.
-
-[[file:images/round01/tofu_07_defects.jpg]]
-
-** Keycaps
-:PROPERTIES:
-:CUSTOM_ID: keycaps
-:END:
 ** PCB/Plates
 :PROPERTIES:
 :CUSTOM_ID: pcb-plates
 :END:
 
+
+*** DZ60 V1 PCB + Plate + Stabilizers
+:PROPERTIES:
+:CUSTOM_ID: dz60-v1-pcb-1
+:END:
+
+Durock v1 stabilizers included
+
+[[file:images/round01/tofu_03.jpg]]
+
+** Keycaps
+:PROPERTIES:
+:CUSTOM_ID: keycaps
+:END:
 
 ** Sold
 :PROPERTIES:
