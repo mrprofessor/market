@@ -21,7 +21,6 @@
 :END:
   - [[#timestamp][Timestamp]]
   - [[#keyboard-kits][Keyboard kits]]
-    - [[#bakeneko60][Bakeneko60]]
     - [[#bakeneko65-lavender][Bakeneko65 (lavender)]]
     - [[#novatouch--norbatouchcase][Novatouch + Norbatouch(case)]]
   - [[#pcbplates][PCB/Plates]]
@@ -38,6 +37,7 @@
     - [[#modo-light-clone-sold][+MODO light clone+ (sold)]]
     - [[#bbox60-sold][+Bbox60+ (Sold)]]
     - [[#gmk-bento-sold][+GMK Bento+ (Sold)]]
+    - [[#bakeneko60][+Bakeneko60+]]
 
 ** Timestamp
 :PROPERTIES:
@@ -50,19 +50,6 @@
 :PROPERTIES:
 :CUSTOM_ID: keyboard-kits
 :END:
-
-*** Bakeneko60 
-:PROPERTIES:
-:CUSTOM_ID: ck-bakeneko60
-:END:
-
-Cannonkeys Bakeneko 60, PCB, plate, JST cable and some random carrying
-case.
-
-
-[[file:images/round04/bakeneko60.jpg]]
-
-[[file:images/round04/bakeneko60_ding.jpg]]
 
 *** Bakeneko65 (lavender)
 :PROPERTIES:
@@ -261,3 +248,16 @@ Bbox60 with MT3 Susuwatari
 Open package, never mounted.
 
 [[file:images/round02/gmk_bento_2.jpg]]
+
+*** +Bakeneko60+
+:PROPERTIES:
+:CUSTOM_ID: ck-bakeneko60
+:END:
+
+Cannonkeys Bakeneko 60, PCB, plate, JST cable and some random carrying
+case.
+
+
+[[file:images/round04/bakeneko60.jpg]]
+
+[[file:images/round04/bakeneko60_ding.jpg]]
