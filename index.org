@@ -7,10 +7,10 @@
 #+HTML_HEAD: <meta property="og:title" content="prof's sale" />
 #+HTML_HEAD: <meta name="twitter:title" content="prof's sale" />
 #+HTML_HEAD: <meta name="twitter:card" content="summary_large_image">
-#+HTML_HEAD: <meta property="og:card" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
-#+HTML_HEAD: <meta property="og:image" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
-#+HTML_HEAD: <meta name="twitter:image" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
-#+HTML_HEAD: <meta name="twitter:image:src" content="https://market.mrprofessor.dev/images/round02/timestamp.jpg" />
+#+HTML_HEAD: <meta property="og:card" content="https://market.mrprofessor.dev/images/30_dec_23/timestamp.jpg" />
+#+HTML_HEAD: <meta property="og:image" content="https://market.mrprofessor.dev/images/30_dec_23/timestamp.jpg" />
+#+HTML_HEAD: <meta name="twitter:image" content="https://market.mrprofessor.dev/images/30_dec_23/timestamp.jpg" />
+#+HTML_HEAD: <meta name="twitter:image:src" content="https://market.mrprofessor.dev/images/30_dec_23/timestamp.jpg" />
 
 #+OPTIONS: toc:3 author:nil date:nil html-postamble:nil html-style:nil num:nil title:nil
 
@@ -21,12 +21,24 @@
 :END:
   - [[#timestamp][Timestamp]]
   - [[#keyboard-kits][Keyboard kits]]
-    - [[#bakeneko65-lavender][Bakeneko65 (lavender)]]
-    - [[#novatouch--norbatouchcase][Novatouch + Norbatouch(case)]]
-  - [[#pcbplates][PCB/Plates]]
-    - [[#dz60-v1-pcb--plate--stabilizers][DZ60 V1 PCB + Plate + Stabilizers]]
+    - [[#f1-722-raw][F1 722 (Raw)]]
   - [[#keycaps][Keycaps]]
+    - [[#gmk-handerbeit][GMK Handerbeit]]
+    - [[#dcs-solarized-dark-base--spacebar-kit--vim-arrow-keys][DCS Solarized Dark base + Spacebar kit + Vim arrow keys]]
+    - [[#novelkeys-pbt-notion][Novelkeys PBT Notion]]
+    - [[#tai-hao-alps-keycap-set-wob][Tai-hao Alps keycap set (WOB)]]
+    - [[#tai-hao-alps-keycap-set-beige][Tai-hao Alps keycap set (Beige)]]
+    - [[#xiami-orange-sawv2][Xiami Orange SAW(v2)]]
+    - [[#xiami-green-irishv2][Xiami Green Irish(v2)]]
+    - [[#cannonkeys-pbt-korean-sublegends][Cannonkeys PBT (Korean sublegends)]]
+    - [[#cherry-og-abs-keycaps-iso---de][Cherry OG ABS keycaps (ISO - DE)]]
+  - [[#pcbplates][PCB/Plates]]
+    - [[#ncr80-pcb][NCR80 PCB]]
+  - [[#switches][Switches]]
+    - [[#alps-white-dampened-switches][Alps white dampened switches]]
   - [[#sold][Sold]]
+    - [[#novatouch--norbatouchcase][+Novatouch + Norbatouch(case)+]]
+    - [[#dz60-v1-pcb--plate--stabilizers][+DZ60 V1 PCB + Plate + Stabilizers+]]
     - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
     - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
     - [[#mt3-dasher-sold][+MT3 Dasher+ (sold)]]
@@ -44,28 +56,174 @@
 :CUSTOM_ID: timestamp
 :END:
 
-[[file:images/round02/timestamp.jpg]]
+[[file:images/30_dec_23/timestamp.jpg]]
+
 
 ** Keyboard kits
 :PROPERTIES:
 :CUSTOM_ID: keyboard-kits
 :END:
 
-*** Bakeneko65 (lavender)
+*** F1 722 (Raw)
 :PROPERTIES:
-:CUSTOM_ID: bakeneko65-lavender
+:CUSTOM_ID: f1-722-raw
 :END:
 
-Cannonkeys Bakeneko 65 with Zinc weight. PCB, plate, JST cable and foam
-included.
+Geonworks F1 722.
 
-[[file:images/round03/bakeneko_65_01.jpg]]
+- keyboard case(raw aluminium)
+- PCB (Maelk hotswap)
+- Aluminium Plate (The red one, v4)
+- Geon carrying case
+
+[[https://flickr.com/photos/197396099@N04/sets/72177720305281015][Link to flicker]]
+
+A couple of scratches on the back(Can be removed with sandblast/polish)
+Tiny dent on top right(blame my cats)
+
+[[file:images/30_dec_23/f18x_722_01.jpg]]
+
+A couple of scratches on the back(Can be removed with sandblast/polish)
+Tiny dent on top right(blame my cats)
+
+[[file:images/30_dec_23/f18x_722_02.jpg]]
+
+[[file:images/30_dec_23/f18x_722_03.jpg]]
 
 
-[[file:images/round03/bakeneko_65_02.jpg]]
+** Keycaps
+:PROPERTIES:
+:CUSTOM_ID: keycaps
+:END:
+
+*** GMK Handerbeit
+:PROPERTIES:
+:CUSTOM_ID: gmk-handerbeit
+:END:
+
+Used for a couple of days, no shine.
+
+[[file:images/30_dec_23/gmk_handerbeit_01.jpg]]
+
+[[file:images/30_dec_23/gmk_handerbeit_02.jpg]]
+
+[[file:images/30_dec_23/gmk_handerbeit_03.jpg]]
 
 
-*** Novatouch + Norbatouch(case)
+*** DCS Solarized Dark base + Spacebar kit + Vim arrow keys
+:PROPERTIES:
+:CUSTOM_ID: dcs-solarized-dark
+:END:
+
+Mounted and used for 3-4 weeks, no shine. (R key replaced by SP)
+
+[[file:images/30_dec_23/dcs_solarized_dark_01.jpeg]]
+
+
+*** Novelkeys PBT Notion
+:PROPERTIES:
+:CUSTOM_ID: novelkeys-pbt-notion
+:END:
+
+Mounted once for 5-10 minutes.
+
+[[file:images/30_dec_23/nk_pbt_notion_01.jpg]]
+
+[[file:images/30_dec_23/nk_pbt_notion_02.jpg]]
+
+[[file:images/30_dec_23/nk_pbt_notion_03.jpg]]
+
+[[file:images/30_dec_23/nk_pbt_notion_04.jpg]]
+
+
+*** Tai-hao Alps keycap set (WOB)
+:PROPERTIES:
+:CUSTOM_ID: tai-hao-alps-keycap-set-wob
+:END:
+
+Brand new
+
+[[file:images/30_dec_23/taihao_alps_wob_01.jpg]]
+
+[[file:images/30_dec_23/taihao_alps_wob_02.jpg]]
+
+*** Tai-hao Alps keycap set (Beige)
+:PROPERTIES:
+:CUSTOM_ID: tai-hao-alps-keycap-set-beige
+:END:
+
+Brand new
+
+[[file:images/30_dec_23/taihao_alps_beige_01.jpg]]
+
+[[file:images/30_dec_23/taihao_alps_beige_02.jpg]]
+
+*** Xiami Orange SAW(v2) 
+:PROPERTIES:
+:CUSTOM_ID: xmi-keycaps
+:END:
+
+Mounted, no shine.
+
+[[file:images/30_dec_23/xmi_orange_saw.jpg]]
+
+
+*** Xiami Green Irish(v2) 
+:PROPERTIES:
+:CUSTOM_ID: xmi-keycaps
+:END:
+
+Mounted, no shine.
+
+[[file:images/30_dec_23/xmi_irish_green.jpg]]
+
+*** Cannonkeys PBT (Korean sublegends)
+:PROPERTIES:
+:CUSTOM_ID: cannonkeys-pbt-korean-sublegends
+:END:
+
+Used for a couple of weeks, no shine
+
+*** Cherry OG ABS keycaps (ISO - DE)
+:PROPERTIES:
+:CUSTOM_ID: cherry-og-abs-keycaps-iso-de
+:END:
+
+Well it's a vintge keycap set, I have never used it though.
+
+
+** PCB/Plates
+:PROPERTIES:
+:CUSTOM_ID: pcb-plates
+:END:
+
+*** NCR80 PCB
+:PROPERTIES:
+:CUSTOM_ID: ncr80-pcb
+:END:
+
+Cleanly desoldered
+
+
+
+
+** Switches
+:PROPERTIES:
+:CUSTOM_ID: switches
+:END:
+
+*** Alps white dampened switches
+:PROPERTIES:
+:CUSTOM_ID: alps-white-dampened
+:END:
+
+
+** Sold
+:PROPERTIES:
+:CUSTOM_ID: sold
+:END:
+
+*** +Novatouch + Norbatouch(case)+
 :PROPERTIES:
 :CUSTOM_ID: coolermaster-novatouch-norbauer-norbatouch-case
 :END:
@@ -84,13 +242,7 @@ Stabs are lubed with krytox 205G0.
 [[file:images/round02/norbatouch_01.jpg]]
 
 
-** PCB/Plates
-:PROPERTIES:
-:CUSTOM_ID: pcb-plates
-:END:
-
-
-*** DZ60 V1 PCB + Plate + Stabilizers
+*** +DZ60 V1 PCB + Plate + Stabilizers+
 :PROPERTIES:
 :CUSTOM_ID: dz60-v1-pcb-1
 :END:
@@ -98,16 +250,6 @@ Stabs are lubed with krytox 205G0.
 Durock v1 stabilizers included
 
 [[file:images/round01/tofu_03.jpg]]
-
-** Keycaps
-:PROPERTIES:
-:CUSTOM_ID: keycaps
-:END:
-
-** Sold
-:PROPERTIES:
-:CUSTOM_ID: sold
-:END:
 
 *** +KAT space cadet+ (sold)
 :PROPERTIES:
