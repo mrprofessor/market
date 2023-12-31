@@ -25,7 +25,6 @@
   - [[#keycaps][Keycaps]]
     - [[#gmk-handerbeit][GMK Handerbeit]]
     - [[#dcs-solarized-dark-base--spacebar-kit--vim-arrow-keys][DCS Solarized Dark base + Spacebar kit + Vim arrow keys]]
-    - [[#novelkeys-pbt-notion][Novelkeys PBT Notion]]
     - [[#tai-hao-alps-keycap-set-wob][Tai-hao Alps keycap set (WOB)]]
     - [[#tai-hao-alps-keycap-set-beige][Tai-hao Alps keycap set (Beige)]]
     - [[#xiami-orange-sawv2][Xiami Orange SAW(v2)]]
@@ -37,8 +36,6 @@
   - [[#switches][Switches]]
     - [[#alps-white-dampened-switches][Alps white dampened switches]]
   - [[#sold][Sold]]
-    - [[#novatouch--norbatouchcase][+Novatouch + Norbatouch(case)+]]
-    - [[#dz60-v1-pcb--plate--stabilizers][+DZ60 V1 PCB + Plate + Stabilizers+]]
     - [[#kat-space-cadet-sold][+KAT space cadet+ (sold)]]
     - [[#mt3-camillo-sold][+MT3 Camillo+ (sold)]]
     - [[#mt3-dasher-sold][+MT3 Dasher+ (sold)]]
@@ -50,6 +47,9 @@
     - [[#bbox60-sold][+Bbox60+ (Sold)]]
     - [[#gmk-bento-sold][+GMK Bento+ (Sold)]]
     - [[#bakeneko60][+Bakeneko60+]]
+    - [[#dz60-v1-pcb--plate--stabilizers][+DZ60 V1 PCB + Plate + Stabilizers+]]
+    - [[#novatouch--norbatouchcase][+Novatouch + Norbatouch(case)+]]
+    - [[#novelkeys-pbt-notion][+Novelkeys PBT Notion+]]
 
 ** Timestamp
 :PROPERTIES:
@@ -118,22 +118,6 @@ Used for a couple of days, no shine.
 Mounted and used for 3-4 weeks, no shine. (R key replaced by SP)
 
 [[file:images/30_dec_23/dcs_solarized_dark_01.jpeg]]
-
-
-*** Novelkeys PBT Notion
-:PROPERTIES:
-:CUSTOM_ID: novelkeys-pbt-notion
-:END:
-
-Mounted once for 5-10 minutes.
-
-[[file:images/30_dec_23/nk_pbt_notion_01.jpg]]
-
-[[file:images/30_dec_23/nk_pbt_notion_02.jpg]]
-
-[[file:images/30_dec_23/nk_pbt_notion_03.jpg]]
-
-[[file:images/30_dec_23/nk_pbt_notion_04.jpg]]
 
 
 *** Tai-hao Alps keycap set (WOB)
@@ -223,33 +207,6 @@ Cleanly desoldered
 :CUSTOM_ID: sold
 :END:
 
-*** +Novatouch + Norbatouch(case)+
-:PROPERTIES:
-:CUSTOM_ID: coolermaster-novatouch-norbauer-norbatouch-case
-:END:
-
-1. Coolermaster Novatouch
-2. Norabatouch (By Ryan Norbauer)
-
-Stabs are lubed with krytox 205G0.
-
-[[file:images/round03/coolermaster_novatouch_tkl_02.jpg]]
-
-[[file:images/round03/coolermaster_novatouch_tkl_01.jpg]]
-
-[[file:images/round03/coolermaster_novatouch_tkl_03.jpg]]
-
-[[file:images/round02/norbatouch_01.jpg]]
-
-
-*** +DZ60 V1 PCB + Plate + Stabilizers+
-:PROPERTIES:
-:CUSTOM_ID: dz60-v1-pcb-1
-:END:
-
-Durock v1 stabilizers included
-
-[[file:images/round01/tofu_03.jpg]]
 
 *** +KAT space cadet+ (sold)
 :PROPERTIES:
@@ -399,7 +356,48 @@ Open package, never mounted.
 Cannonkeys Bakeneko 60, PCB, plate, JST cable and some random carrying
 case.
 
-
 [[file:images/round04/bakeneko60.jpg]]
 
 [[file:images/round04/bakeneko60_ding.jpg]]
+
+*** +DZ60 V1 PCB + Plate + Stabilizers+
+:PROPERTIES:
+:CUSTOM_ID: dz60-v1-pcb-1
+:END:
+
+Durock v1 stabilizers included
+
+[[file:images/round01/tofu_03.jpg]]
+
+*** +Novatouch + Norbatouch(case)+
+:PROPERTIES:
+:CUSTOM_ID: coolermaster-novatouch-norbauer-norbatouch-case
+:END:
+
+1. Coolermaster Novatouch
+2. Norabatouch (By Ryan Norbauer)
+
+Stabs are lubed with krytox 205G0.
+
+[[file:images/round03/coolermaster_novatouch_tkl_02.jpg]]
+
+[[file:images/round03/coolermaster_novatouch_tkl_01.jpg]]
+
+[[file:images/round03/coolermaster_novatouch_tkl_03.jpg]]
+
+[[file:images/round02/norbatouch_01.jpg]]
+
+*** +Novelkeys PBT Notion+
+:PROPERTIES:
+:CUSTOM_ID: novelkeys-pbt-notion
+:END:
+
+Mounted once for 5-10 minutes.
+
+[[file:images/30_dec_23/nk_pbt_notion_01.jpg]]
+
+[[file:images/30_dec_23/nk_pbt_notion_02.jpg]]
+
+[[file:images/30_dec_23/nk_pbt_notion_03.jpg]]
+
+[[file:images/30_dec_23/nk_pbt_notion_04.jpg]]
